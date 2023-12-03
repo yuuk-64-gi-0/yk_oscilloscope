@@ -1,0 +1,25 @@
+{
+    "configname": "720p60fps_2ch2c",
+    "fps": 60,
+    "downfr": 1,
+    "moviebitrate": 2000,
+    "moviecodec": "h264",
+    "column": 2,
+    "linecolor": [
+        0,
+        0.50196,
+        1,
+        1
+    ],
+    "backcolor": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "smprange": 1000,
+    "frameheight": 720,
+    "framewidth": 1280,
+    "linebold": 0.4,
+    "visualtype": "oscilloscope"
+}

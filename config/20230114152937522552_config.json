@@ -1,0 +1,25 @@
+{
+    "configname": "VFHD60fps",
+    "fps": 60,
+    "downfr": 1,
+    "moviebitrate": 10000,
+    "moviecodec": "h264",
+    "column": 2,
+    "linecolor": [
+        0,
+        1,
+        0.6,
+        1
+    ],
+    "backcolor": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "smprange": 1000,
+    "frameheight": 1920,
+    "framewidth": 1080,
+    "linebold": 1.0,
+    "visualtype": "oscilloscope"
+}

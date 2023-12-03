@@ -1,0 +1,25 @@
+{
+    "configname": "FHD30fps",
+    "fps": 30,
+    "downfr": 1,
+    "moviebitrate": 4000,
+    "moviecodec": "h264",
+    "column": 1,
+    "linecolor": [
+        0,
+        1,
+        0.6,
+        1
+    ],
+    "backcolor": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "smprange": 1000,
+    "frameheight": 1080,
+    "framewidth": 1920,
+    "linebold": 0.4,
+    "visualtype": "oscilloscope"
+}

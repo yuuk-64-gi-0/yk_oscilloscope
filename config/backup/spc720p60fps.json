@@ -1,0 +1,25 @@
+{
+    "configname": "spc720p60fps",
+    "fps": 60,
+    "downfr": 1,
+    "moviebitrate": 2000,
+    "moviecodec": "h264",
+    "column": 1,
+    "linecolor": [
+        0,
+        1,
+        0.6,
+        1
+    ],
+    "backcolor": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "smprange": 4096,
+    "frameheight": 720,
+    "framewidth": 1280,
+    "linebold": 0.4,
+    "visualtype": "spectrum"
+}
